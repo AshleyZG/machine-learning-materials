@@ -6,5 +6,5 @@ useful materials for beginners of machine learning
 [GRU](https://towardsdatascience.com/understanding-gru-networks-2ef37df6c9be) ([notes](./notes/rnn/IMG_C3C81433AA0A-1.jpeg))  
 [A clear distinction between GRU and LSTM](https://arxiv.org/pdf/1412.3555v1.pdf)  
 
-### CNN
+## CNN
 [convolutional feature maps](http://kaiminghe.com/iccv15tutorial/iccv2015_tutorial_convolutional_feature_maps_kaiminghe.pdf)  
