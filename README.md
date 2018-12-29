@@ -14,6 +14,7 @@ useful materials for beginners of machine learning
 
 ## Seq2seq 
 [Transformer-pytorch-implementation](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
+[Transformer-Attention-is-all-you-need](https://arxiv.org/pdf/1706.03762.pdf)
 
 ## CV
 [A gentle introduction to OCR](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa)
