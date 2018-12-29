@@ -12,6 +12,9 @@ useful materials for beginners of machine learning
 ## Attention
 [Attention](http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-09-attention.pdf)  
 
+## Seq2seq 
+[Transformer-pytorch-implementation](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
+
 ## CV
 [A gentle introduction to OCR](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa)
 
