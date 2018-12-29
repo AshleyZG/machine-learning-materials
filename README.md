@@ -9,6 +9,9 @@ useful materials for beginners of machine learning
 ## CNN
 [convolutional feature maps](http://kaiminghe.com/iccv15tutorial/iccv2015_tutorial_convolutional_feature_maps_kaiminghe.pdf)  
 
+## Attention
+[Attention](http://phontron.com/class/nn4nlp2017/assets/slides/nn4nlp-09-attention.pdf)  
+
 ## CV
 [A gentle introduction to OCR](https://towardsdatascience.com/a-gentle-introduction-to-ocr-ee1469a201aa)
 
